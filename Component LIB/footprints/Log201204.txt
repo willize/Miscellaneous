@@ -1,0 +1,86 @@
+Altium Limited
+
+
+QA Footprints
+Batch Number 201204
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+13-Dec-2004
+11-Oct-2004
+15-Jul-2004
+26-May-2004
+19-Mar-2004
+16-Feb-2004
+21-May-2003
+11-Feb-2003
+31-Oct-2002
+27-Aug-2001
+11-May-2001
+
+
+New Libraries
+~~~~~~~~~~~~~
+Con IDC.PcbLib (127)
+
+
+Removed Libraries
+~~~~~~~~~~~~~~~~~
+Capacitor Non-Polar Radial.PcbLib
+Leaded Chip Carrier (Square) - Corner Index.PcbLib
+Small Outline Capacitor - 2 C-Bend Leads.PcbLib
+
+
+New Footprints to Existing Libraries
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+BGA (0.8mm Pitch, Square).PcbLib
+BGA (1mm Pitch, Square2).PcbLib
+BGA (1mm Pitch, Square4).PcbLib
+Con DIN Circular.PcbLib
+
+
+Footprints Modified
+~~~~~~~~~~~~~~~~~~~
+Transposed 'X' and 'Y'pad orientation for 
+some footprints from the following libraries: 
+Bumpered QFP - Centre Index.PcbLib
+Bumpered QFP - Corner Index.PcbLib
+Ceramic DFP.PcbLib
+Ceramic QFP (Square).PcbLib
+FQFP - Rectangle.PcbLib
+FQFP (0.3mm Pitch, Square) - Corner Index.PcbLib
+FQFP (0.4mm Pitch, Square) - Corner Index.PcbLib
+FQFP (0.5mm Pitch, Square) - Corner Index.PcbLib
+Leaded Chip Carrier (Square) - Centre Index.PcbLib
+Leadless Chip Carrier - Rectangle.PcbLib
+Leadless Chip Carrier - Square.PcbLib
+QFP - Rectangle.PcbLib
+QFP (~0.6mm Pitch, Square) - Corner Index.PcbLib
+QFP (~0.8mm Pitch, Square) - Corner Index.PcbLib
+Shrink Small Outline (~0.6mm Pitch).PcbLib
+Small Outline (~0.8mm Pitch).PcbLib
+Small Outline (~1.27mm Pitch) - 22+ Leads.PcbLib
+Small Outline (~1.27mm Pitch) - 6to20 Leads.PcbLib
+Small Outline (+1.27mm Pitch).PcbLib
+SOT 143.PcbLib
+SOT 23 - 5 and 6 Leads.PcbLib
+SOT 343.PcbLib
+SOT 89.PcbLib
+TSOP (~0.6mm Pitch).PcbLib
+TSOP (0.4mm Pitch).PcbLib
+TSOP (0.5mm Pitch).PcbLib
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (http://www.altium.com/libraries/index.html).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See: http://www.altium.com/libraries/index.html

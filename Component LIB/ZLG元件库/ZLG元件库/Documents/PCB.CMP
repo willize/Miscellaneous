@@ -1,0 +1,15 @@
+Component   : QFP-64
+PCB Library : PCB.LIB
+Date        : 2005-6-6
+Time        : 16:58:42
+
+
+
+Dimension : 13.462 x 13.4874 sq mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Layer                  64          0        0       0        0
+ Top Overlay                 0          5        0       1        0
+--------------------------------------------------------------------
+ Total                      64          5        0       1        0

@@ -1,0 +1,64 @@
+Altium Limited
+
+
+National Semiconductor
+Batch Number NSC - Release 1.8 -230709
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+15-Jul-2009
+29-May-2009
+04-May-2009
+07-Apr-2009
+13-Jan-2009
+04-Dec-2008
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+15-Jul-2009
+29-May-2009
+04-May-2009
+
+PowerWise parameter added to all National Semiconductor libraries, further details below:
+
+Component          IntLib Name                  Description
+-----------------------------------------------------------
+16 components      NSC ADC                      Component Added
+ADC10D1000CIUT     NSC ADC                      Pin C7 re-named DNC, Sch layout revised
+14 components      NSC Amplifier                Component Added
+LM111J/883         NSC Amplifier                Replaced 8-pin device with 14-pin
+9 components       NSC Analog                   Component Added
+3 components       NSC Audio                    Component Added
+16 components      NSC Comparator               Component Added
+23 components      NSC Interface                Component Added
+5 components       NSC Interface                Sch layout changed, complimentary pins marked
+26 components      NSC LDO                      Component Added
+65 components      NSC MiscPower                Component Added
+9 components       NSC OtherParts               Component Added
+26 components      NSC Switcher                 Component Added
+12 components      NSC Temperature Sensor       Component Added
+11 components      NSC Temperature Sensor       Sch pins 1 & 3 reversed
+26 components      NSC Voltage Reference        Component Added
+64 components      NSC Voltage Reference        Sch pins 1 & 3 reversed
+
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

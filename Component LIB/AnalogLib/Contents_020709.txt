@@ -1,0 +1,42 @@
+Altium Limited
+
+
+Analog Devices
+Batch Number 020709
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+AD Differential Amplifier.IntLib
+AD Instrumentation Amplifier.IntLib
+AD Thermocouple Amplifier.IntLib
+AD Variable Gain Amplifier.IntLib
+AD Logarithmic Amplifier.IntLib
+AD Video Amplifier.IntLib
+AD Transimpedance Amplifier.IntLib
+AD Amplifier Buffer.IntLib
+AD Audio Pre-Amplifier.IntLib
+AD Voltage Controlled Amplifier.IntLib
+AD Operational Amplifier.IntLib
+AD Analog Comparator.IntLib
+AD Analog Multiplier Divider.IntLib
+AD Microcontroller ARM.IntLib
+AD Power Mgt Switching Regulator.IntLib
+AD Power Mgt Supervisory Circuit.IntLib
+AD Power Mgt Voltage Reference.IntLib
+AD Power Mgt Voltage Regulator.IntLib
+AD Power Mgt DC-DC Converter.IntLib
+AD Power Mgt Charge Pump.IntLib
+AD RF and IF Modulator Demodulator.IntLib
+AD Comm Clock Data Recovery.IntLib
+AD Converter Analog to Digital.IntLib
+AD DSP 16-Bit.IntLib
+AD DSP 32-Bit.IntLib
+AD Logic Switch.IntLib
+AD RF and IF Frequency Synthesiser.IntLib
+AD RF and IF Mixer.IntLib
+AD RF and IF Modulator.IntLib
+AD Video Colour Encoder Circuit.IntLib
+AD Video HDMI.IntLib
+AD Video Processor.IntLib
+Log_020709.txt
